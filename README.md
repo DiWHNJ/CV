@@ -3,12 +3,11 @@
 
 ## 个人信息
 
-- **姓名**: 张三
-- **性别**: 男
-- **出生日期**: 1990年1月1日
-- **联系电话**: 123-4567-8901
-- **电子邮件**: zhangsan@example.com
-- **地址**: 中国北京市海淀区
+- **Name**: Miaozeng Du
+- **Gender**: Male
+- **Brithday**: 2001/10/01
+- **E-Mail**: miaozengdu@seu.edu.cn
+- **Address**: Nanjing, China
 
 ---
 
