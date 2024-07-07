@@ -18,29 +18,22 @@
 - **Duration**: September 2019 - July 2023
 
 ### Southeast University
-- **Degree**: Bachelor of Engineering
+- **Degree**: Pursuing a Master's Degree
 - **Major**: Computer Science and Technology
-- **Duration**: September 2019 - July 2023
+- **Duration**: September 2023 - now
 
 ---
 
-## 工作经验
+## Paper
 
-### ABC科技有限公司
-- **职位**: 高级软件工程师
-- **时间**: 2015年8月 - 2023年6月
-- **职责**:
-  - 负责公司核心产品的架构设计与开发。
-  - 领导团队进行技术攻关，提升系统性能。
-  - 与客户沟通需求，制定技术解决方案。
+### Three Stream Based Multi-level Event Contrastive Learning for Text-Video Event Extraction
+- **Authors**: Jiaqi Li, Chuanyi Zhang, Miaozeng Du, Dehai Min, Yongrui Chen, Guilin Qi
+- **Accept**: EMNLP 2023 Main
 
-### XYZ互联网公司
-- **职位**: 软件工程师
-- **时间**: 2012年8月 - 2015年7月
-- **职责**:
-  - 参与公司网站的开发与维护。
-  - 开发并优化后台服务，提升用户体验。
-  - 编写技术文档，协助团队成员解决技术难题。
+
+### MIKE: A New Benchmark for Fine-grained Multimodal Entity Knowledge Editing
+- **Authors**: Jiaqi Li, Miaozeng Du(co-first author), Chuanyi Zhang, Yongrui Chen, Nan Hu, Guilin Qi, Haiyun Jiang, Siyuan Cheng, Bozhong Tian
+- **Accept**: ACL 2024 Findings
 
 ---
 
