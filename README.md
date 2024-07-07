@@ -1,7 +1,6 @@
 # CV
-# 个人简历
 
-## 个人信息
+## Personal Information
 
 - **Name**: Miaozeng Du
 - **Gender**: Male
@@ -11,17 +10,17 @@
 
 ---
 
-## 教育背景
+## Education Background
 
-### 北京大学
-- **学位**: 工学硕士
-- **专业**: 计算机科学与技术
-- **时间**: 2012年9月 - 2015年7月
+### Hohai University
+- **Degree**: Bachelor of Engineering
+- **Major**: Computer Science and Technology
+- **Duration**: September 2019 - July 2023
 
-### 清华大学
-- **学位**: 工学学士
-- **专业**: 软件工程
-- **时间**: 2008年9月 - 2012年7月
+### Southeast University
+- **Degree**: Bachelor of Engineering
+- **Major**: Computer Science and Technology
+- **Duration**: September 2019 - July 2023
 
 ---
 
