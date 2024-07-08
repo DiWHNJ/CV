@@ -9,7 +9,11 @@
 - **Address**: Nanjing, China
 
 ---
+## Research Direction
 
+- **Focusing on multimodal research and application, with a focus on knowledge editing of large models**
+
+---
 ## Education Background
 
 ### Hohai University
@@ -37,15 +41,6 @@
 
 ---
 
-## Research Direction
-
-- **Focusing on multimodal research and application, with a focus on knowledge editing of large models**:
 
 
 
-
-## 兴趣爱好
-
-- 编程
-- 阅读
-- 跑步
