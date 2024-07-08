@@ -37,39 +37,12 @@
 
 ---
 
-## 技能
+## Research Direction
 
-- **编程语言**: Java, Python, C++
-- **数据库**: MySQL, MongoDB
-- **开发工具**: Git, Docker, Jenkins
-- **框架**: Spring, Django, React
+- **Focusing on multimodal research and application, with a focus on knowledge editing of large models**:
 
----
 
-## 项目经验
 
-### 智能推荐系统
-- **描述**: 开发一个基于用户行为分析的智能推荐系统。
-- **职责**:
-  - 设计系统架构，选型技术方案。
-  - 编写核心算法，优化推荐效果。
-  - 部署系统并进行性能调优。
-
-### 电商平台
-- **描述**: 参与电商平台的开发，负责订单模块的设计与实现。
-- **职责**:
-  - 设计订单系统的数据库结构。
-  - 实现订单创建、查询、支付等功能。
-  - 配合前端开发，提供接口支持。
-
----
-
-## 证书
-
-- **PMP项目管理专业人士认证**
-- **Oracle认证Java程序员**
-
----
 
 ## 兴趣爱好
 
